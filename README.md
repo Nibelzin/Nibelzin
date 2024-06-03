@@ -2,7 +2,7 @@
 ⭐ Estudante Full-stack<br><br>Atualmente estou em transição de carreira para entrar no mercado de programação,<br>procuro meu primeiro estágio.<br><br>Estudando no momento: Javascript/React/Next-js<br><br>Já trabalhei em projetos que utilizavam: PHP/HTML/Javascript/Mysql<br><br>Sou apaixonado em resolver desafios e desenvolver soluções práticas,<br>procurando sempre melhorar e aprender coisas novas!
 
 
-## 🌐 Socials:
+## 🌐 Linkedin:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luan-henrique-09051a237/) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nibelzin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nibelzin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Motivação
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
