@@ -1,5 +1,5 @@
 # Sobre Mim:
-⭐ Estudante Full-stack<br><br>Atualmente estou em transição de carreira para entrar no mercado de programação,<br>procuro meu primeiro estágio.<br><br>Estudando no momento: Javascript/React/Next-js<br><br>Já trabalhei em projetos que utilizavam: PHP/HTML/Javascript/Mysql<br><br>Sou apaixonado em resolver desafios e desenvolver soluções práticas,<br>procurando sempre melhorar e aprender coisas novas!
+⭐ Estudante Frontend<br><br>Atualmente estou em transição de carreira para entrar no mercado de programação,<br>procuro meu primeiro estágio.<br><br>Estudando no momento: Javascript/React/Next-js<br><br>Já trabalhei em projetos que utilizavam: PHP/HTML/Javascript/Mysql<br><br>Sou apaixonado em resolver desafios e desenvolver soluções práticas,<br>procurando sempre melhorar e aprender coisas novas!
 
 
 ## 🌐 Linkedin:
