@@ -1,7 +1,7 @@
 ## Olá! 👋
 **Me chamo Luan** - Atualmente estou em transição de carreira para entrar no mercado de programação,<br>procuro meu primeiro estágio.<br><br>Estudando no momento: Typescript, Javascript/React/Next-js<br><br>Já trabalhei em projetos que utilizavam: PHP/HTML/Javascript/Mysql<br><br>Sou apaixonado em resolver desafios e desenvolver soluções práticas,<br>procurando sempre melhorar e aprender coisas novas!
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,figma,prisma,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,figma,prisma,postgres,mysql,mongo)](https://skillicons.dev)
 
 ### Linkedin:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luan-henrique-09051a237/) 
