@@ -3,6 +3,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,figma,prisma,postgres,mysql)](https://skillicons.dev)
 
+### Linkedin:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luan-henrique-09051a237/) 
+
 ## Stats:
 [![Nibelzin`s Github Stats](https://github-readme-stats.vercel.app/api?username=nibelzin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
